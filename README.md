@@ -1,1 +1,1 @@
-# Online_Student_Report
+It is a Java Web app using JSPs to display students' results online
